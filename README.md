@@ -4,11 +4,17 @@ This Power BI dashboard provides a detailed analysis of customer churn based on 
 
 🔍 Dataset Overview
 The dataset contains information on customers who have either cancelled or downgraded their service. Each record includes:
+
 1.Customer ID
+
 2.ARR Churn (Annual Recurring Revenue lost per customer)
+
 3.Churn Type (Cancellation/Downgrade)
+
 4.Churn Date and Activation Date
+
 5.Churn Reason (e.g., Business shut down, Non Payment, etc.)
+
 6.Region
 
 📈 Key Features of the Dashboard
